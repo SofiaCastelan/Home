@@ -1,0 +1,19 @@
+.bienvenido{
+    align-items: center;
+    text-align: center;
+    width: 1200px;
+    height: 1090px;
+    margin-left: 20%;
+    margin-top: 5%;
+
+}
+
+.text-bienvenido{
+    font-family: "Roboto", sans-serif;
+    color: rgb(0, 2, 41);
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 1.1;
+    text-align: center;
+    letter-spacing: -0.02em;
+}
